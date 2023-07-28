@@ -1,3 +1,5 @@
+:: This script is modified by rubangino.in
+
 @ECHO OFF
 if EXIST "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}" goto UNLOCK
 if NOT EXIST Private goto MDPrivate
@@ -31,3 +33,5 @@ md Private
 echo Private created successfully
 goto End
 :End
+
+:: This script is modified by rubangino.in
