@@ -24,9 +24,6 @@ For any questions or inquiries, please feel free to approach me through the foll
 
 Feel free to report any issues or suggest improvements by creating an issue in the GitHub repository.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Star ⭐ Some Of My Repositories for Future use 😉
 
 Click below to gift a book to me.
